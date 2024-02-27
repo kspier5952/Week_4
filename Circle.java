@@ -1,4 +1,5 @@
-/* Katelyn Spier
+/**
+*Katelyn Spier
 */    
 public class Circle 
 {
